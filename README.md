@@ -4,7 +4,7 @@ Dataset containing most of TheNeedleDrop's reviews with scores for use however y
 
 Example basic analysis of average ratings by genres can be found in [analysis/fantano_genre.ipynb](https://github.com/andrewjleung/tnd-reviews/blob/main/analysis/fantano_genre.ipynb) (TL;DR he likes industrial).
 
-# Note on Completeness
+## Note on Completeness
 
 In its current state, this dataset is not 100% complete in terms of having every TheNeedleDrop review there is, though updates are being made to the review parser to achieve this.
 
